@@ -1,0 +1,2 @@
+countyIds,countynames,LicensePermitTypeId,ProductTypes,LicDescription,NumberOfTerm,InitialLicFee,NonRefundableFilingFees,RenewalFilingFees,AncillaryFees,data 
+1,'NewYork',8,'Beer','Brewer',1,4000,400,100,1800,'11'

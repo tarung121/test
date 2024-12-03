@@ -1,0 +1,2 @@
+countyIds,countynames,LicensePermitTypeId,ProductTypes,LicDescription,NumberOfTerm,InitialLicFee,NonRefundableFilingFees,RenewalFilingFees,AncillaryFees,data 
+1,'NewYork',1,'Beer','Wholesale Beer (retail)',1,800,400,100,260,'11'

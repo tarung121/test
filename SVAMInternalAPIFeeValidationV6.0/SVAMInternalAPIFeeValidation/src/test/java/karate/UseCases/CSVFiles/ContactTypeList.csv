@@ -1,0 +1,7 @@
+ContactTypeID,ContactType
+1,'Attorney'
+2,'Lobbyist'
+3,'Agent'
+4,'Principal'
+5,'Authorized Signer'
+6,'Other'

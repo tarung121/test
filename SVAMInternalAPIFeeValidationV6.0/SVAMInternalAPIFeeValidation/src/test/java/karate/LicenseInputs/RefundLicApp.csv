@@ -1,0 +1,7 @@
+countyIds,countynames,LicensePermitTypeId,ProductTypes,LicDescription,NumberOfTerm,InitialLicFee,NonRefundableFilingFees,RenewalFilingFees,AncillaryFees,data 
+1,'NewYork',1,'Beer','Wholesale Beer (retail)',1,800,400,100,260,'11'
+1,'NewYork',2,'Beer','Wholesale Beer',1,800,400,100,260,'11'
+1,'NewYork',3,'Cider','Cider Producer',1,125,400,100,0,'11'
+1,'NewYork',5,'Wine','Wholesale Wine',3,2400,400,100,960,'11'
+1,'NewYork',6,'Liquor','Wholesale Liquor',3,19200,400,100,7680,'11'
+1,'NewYork',7,'Importer','Importer',3,375,0,0,0,'11'

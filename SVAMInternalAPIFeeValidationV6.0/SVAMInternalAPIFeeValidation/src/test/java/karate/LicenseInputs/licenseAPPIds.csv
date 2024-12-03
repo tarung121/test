@@ -1,0 +1,89 @@
+appId,term,description,licId,applicationId
+12958,3 Year (s),RestaurantBeer,0111-22-128823,RE-22-106214-01
+12960,7 Year (s),Summer Restaurant,0112-22-128824,RE-22-106215-01
+12962,7 Year (s),Winter Restaurant,0113-22-128825,RE-22-106216-01
+12964,3 Year (s),Hotel,0114-22-128826,RE-22-106217-01
+12966,7 Year (s),Summer Hotel,0115-22-128827,RE-22-106218-01
+12968,7 Year (s),Winter Hotel,0116-22-128828,RE-22-106219-01
+12970,3 Year (s),Catering Esatblishment,0117-22-128829,RE-22-106220-01
+12972,7 Year (s),Summer Catering Esatblishment,0118-22-128830,RE-22-106221-01
+12974,7 Year (s),Winter Catering Esatblishment,0119-22-128831,RE-22-106222-01
+12976,3 Year (s),Club,0120-22-128832,RE-22-106223-01
+12978,7 Year (s),Summer Club,0121-22-128833,RE-22-106224-01
+12980,7 Year (s),Winter Club,0122-22-128834,RE-22-106225-01
+12982,1 Year (s),Railroad car,0123-22-128835,RE-22-106226-01
+12984,7 Year (s),Summer Railroad car,0124-22-128836,RE-22-106227-01
+12986,7 Year (s),Winter Railroad car,0125-22-128837,RE-22-106228-01
+12988,3 Year (s),Vessel,0126-22-128838,RE-22-106229-01
+12990,7 Year (s),Summer Vessel,0127-22-128839,RE-22-106230-01
+12992,7 Year (s),Winter Vessel,0128-22-128840,RE-22-106231-01
+12994,3 Year (s),Aircraft,0129-22-128841,RE-22-106232-01
+12996,7 Year (s),Summer Aircraft,0130-22-128842,RE-22-106233-01
+12998,7 Year (s),Winter Aircraft,0131-22-128843,RE-22-106234-01
+13000,3 Year (s),Bed & Breakfast,0132-22-128844,RE-22-106235-01
+13002,7 Year (s),Summer Bed & Breakfast,0133-22-128845,RE-22-106236-01
+13004,7 Year (s),Winter Bed & Breakfast,0134-22-128846,RE-22-106237-01
+13006,3 Year (s),Misc- not primary source of revenue,0135-22-128847,RE-22-106238-01
+13008,7 Year (s),Summer Misc- not primary source of revenue,0136-22-128848,RE-22-106239-01
+13010,7 Year (s),Winter Misc- not primary source of revenue,0137-22-128849,RE-22-106240-01
+13012,3 Year (s),Food & Beverage Business,0138-22-128850,RE-22-106241-01
+13014,7 Year (s),Summer Food & Beverage Business,0139-22-128851,RE-22-106242-01
+13016,7 Year (s),Winter Food & Beverage Business,0140-22-128852,RE-22-106243-01
+13018,3 Year (s),Legitimate Theatre,0141-22-128853,RE-22-106244-01
+13020,7 Year (s),Summer Legitimate Theatre,0142-22-128854,RE-22-106245-01
+13022,7 Year (s),Winter Legitimate Theatre,0143-22-128855,RE-22-106246-01
+13024,3 Year (s),Concert Hall,0144-22-128856,RE-22-106247-01
+13026,7 Year (s),Summer Concert Hall,0145-22-128857,RE-22-106248-01
+13028,7 Year (s),Winter Concert Hall,0146-22-128858,RE-22-106249-01
+13030,3 Year (s),Opera House,0147-22-128859,RE-22-106250-01
+13032,7 Year (s),Summer Opera House,0148-22-128860,RE-22-106251-01
+13034,7 Year (s),Winter Opera House,0149-22-128861,RE-22-106252-01
+13036,3 Year (s),Bowling Establishment,0150-22-128862,RE-22-106253-01
+13038,7 Year (s),Summer Bowling Establishment,0151-22-128863,RE-22-106254-01
+13040,7 Year (s),Winter Bowling Establishment,0152-22-128864,RE-22-106255-01
+13042,3 Year (s),Public Dance Hall,0153-22-128865,RE-22-106256-01
+13044,7 Year (s),Summer Public Dance Hall,0154-22-128866,RE-22-106257-01
+13046,7 Year (s),Winter Public Dance Hall,0155-22-128867,RE-22-106258-01
+13048,3 Year (s),Night Club,0156-22-128868,RE-22-106259-01
+13050,7 Year (s),Summer Night Club,0157-22-128869,RE-22-106260-01
+13052,7 Year (s),Winter Night Club,0158-22-128870,RE-22-106261-01
+13054,3 Year (s),Golf venue,0159-22-128871,RE-22-106262-01
+13056,7 Year (s),Summer Golf venue,0160-22-128872,RE-22-106263-01
+13058,7 Year (s),Winter Golf venue,0161-22-128873,RE-22-106264-01
+13060,3 Year (s),Tennis venue,0162-22-128874,RE-22-106265-01
+13063,2 Year (s),Restaurant,0340-22-128876,RE-22-106266-01
+13065,2 Year (s),Hotel,0343-22-128877,RE-22-106267-01
+13067,2 Year (s),Catering Esatblishment,0346-22-128878,RE-22-106268-01
+13069,2 Year (s),Club,0349-22-128879,RE-22-106269-01
+13071,2 Year (s),Luncheon Club,0352-22-128880,RE-22-106270-01
+13073,2 Year (s),Golf Club,0355-22-128881,RE-22-106271-01
+13075,1 Year (s),Railroad car,0358-22-128882,RE-22-106272-01
+13077,3 Year (s),Vessel,0361-22-128883,RE-22-106273-01
+13079,2 Year (s),Aircraft,0364-22-128884,RE-22-106274-01
+13081,2 Year (s),Bed & Breakfast,0367-22-128885,RE-22-106275-01
+13083,2 Year (s),Food & beverage business,0370-22-128886,RE-22-106276-01
+13085,2 Year (s),Legitimate theatre,0373-22-128887,RE-22-106277-01
+13087,2 Year (s),Concert hall,0376-22-128888,RE-22-106278-01
+13089,2 Year (s),Opera House,0379-22-128889,RE-22-106279-01
+13091,2 Year (s),Bowling Establishment,0382-22-128890,RE-22-106280-01
+13093,2 Year (s),Public Dance Hall,0385-22-128891,RE-22-106281-01
+13095,2 Year (s),Night Club,0388-22-128892,RE-22-106282-01
+13097,2 Year (s),Golf venue,0391-22-128893,RE-22-106283-01
+13099,2 Year (s),Tennis venue,0394-22-128894,RE-22-106284-01
+13101,2 Year (s),Swimming venue,0397-22-128895,RE-22-106285-01
+13103,2 Year (s),Skiing venue,0400-22-128896,RE-22-106286-01
+13105,2 Year (s),Ice Skating venue,0403-22-128897,RE-22-106287-01
+13107,2 Year (s),Boating venue,0406-22-128898,RE-22-106288-01
+13109,2 Year (s),Athletic/sporting event/expositions/large gathering venue,0409-22-128899,RE-22-106289-01
+13111,2 Year (s),Excursion & sight seeing vessels,0412-22-128900,RE-22-106290-01
+13113,2 Year (s),Bottle Club,0415-22-128901,RE-22-106291-01
+13115,3 Year (s),Restaurant Brewer,0416-22-128902,RE-22-106292-01
+13117,2 Year (s),Cabaret,0417-22-128903,RE-22-106293-01
+13119,2 Year (s),Race Tracks,0419-22-128904,RE-22-106294-01
+13121,6 Year (s),Summer Restaurant,0111-22-128905,RE-22-106295-01
+13128,6 Year (s),Winter Restaurant,0111-22-128906,RE-22-106296-01
+13135,6 Year (s),Summer Hotel Liquor,0111-22-128907,RE-22-106297-01
+13142,6 Year (s),Winter Hotel Liquor,0111-22-128908,RE-22-106298-01
+13149,6 Year (s),Summer Catering Establishment,0111-22-128909,RE-22-106299-01
+13156,6 Year (s),Winter Catering Establishment,0111-22-128910,RE-22-106300-01
+13163,6 Year (s),Summer Club,0111-22-128911,RE-22-106301-01
